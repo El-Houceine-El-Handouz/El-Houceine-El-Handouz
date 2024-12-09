@@ -5,7 +5,7 @@
 Je m'appelle **El Handouz El Houceine**, un développeur web passionné et en reconversion professionnelle. Après une carrière dans un autre domaine, j'ai décidé de suivre ma passion pour les technologies web et de m'engager pleinement dans cette voie.
 
 - 🎓 **Formation intensive** chez [O'clock](https://oclock.io) (2022) : 700h de cours immersifs en développement web.
-- 📜 **Certification Opquast** (2023) : Maîtrise des bonnes pratiques web (score : [à ajouter si disponible]).
+- 📜 **Certification Opquast** (2023) : Maîtrise des bonnes pratiques web.
 - 🏆 **Titre Professionnel Développeur Web et Web Mobile** : Niveau 5 (équivalent Bac +2).
 
 ---
