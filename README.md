@@ -2,7 +2,11 @@
 
 ## 👨‍💻 Qui suis-je ? 
 
-Je m'appelle **El Handouz El Houceine**, un développeur web passionné et en reconversion professionnelle. Après une carrière dans un autre domaine, j'ai décidé de suivre ma passion pour les technologies web et de m'engager pleinement dans cette voie.
+Je m'appelle **El Handouz El Houceine**, un développeur web passionné et en reconversion professionnelle. Fort d'une expérience diversifiée dans le transport de personne, j'ai décidé de suivre ma vocation et de m'immerger dans l'univers passionnant du développement web.
+
+Curieux et motivé, je suis constamment à la recherche de nouvelles connaissances et de défis à relever. Mon parcours de formation intensif et mes certifications témoignent de mon sérieux et de mon engagement dans cette transition réussie vers le développement web.
+
+Je combine une solide maîtrise des bases fondamentales du métier avec une volonté d'apprendre en continu pour rester à jour avec les technologies les plus modernes. Mon objectif est de contribuer activement à des projets ambitieux, collaboratifs et porteurs de sens.
 
 - 🎓 **Formation intensive** chez [O'clock](https://oclock.io) (2022) : 700h de cours immersifs en développement web.
 - 📜 **Certification Opquast** (2023) : Maîtrise des bonnes pratiques web.
