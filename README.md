@@ -65,9 +65,7 @@ Sur mon GitHub, vous trouverez :
 
 Je suis toujours ouvert à de nouvelles opportunités et collaborations. N'hésitez pas à me contacter :  
 
-- 📧 **Email :** [votre.email@example.com](mailto:votre.email@example.com)  
-- 💼 **LinkedIn :** [Votre profil LinkedIn](https://www.linkedin.com/)  
-- 🌐 **Portfolio :** [Lien vers votre portfolio](https://www.votre-portfolio.com)  
+- 📧 **Email :** [elhandouzelhouceine@gmail.com](mailto:elhandouzelhouceine@gmail.com)  
 
 ---
 
