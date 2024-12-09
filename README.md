@@ -25,6 +25,11 @@ Je combine une solide maîtrise des bases fondamentales du métier avec une volo
 ### ⚙️ **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![API RESTful](https://img.shields.io/badge/API-RESTful-blue)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+- ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0B2?logo=sequelize&logoColor=white)
+- ![dotenv](https://img.shields.io/badge/-dotenv-83B631?logo=dotenv&logoColor=white)
+- ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtoken&logoColor=white)
 
 ### 🗄️ **Bases de données**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
