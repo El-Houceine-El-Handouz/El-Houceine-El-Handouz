@@ -39,7 +39,7 @@ const elHouceine = {
 <td width="50%">
 
 ### 📚 Formation Académique
-- **Titre Pro DWWM** (Bac+2) - O'clock, 2023
+- **Titre Pro DWWM** (Bac+2)
   - O'clock, 2023 - Projet personnel O'Cuisine
 - **Certification Opquast** - 2023
   - Maîtrise de la qualité Web
