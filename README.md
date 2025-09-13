@@ -96,9 +96,9 @@ Portfolio moderne avec thème sombre/clair, animations CSS avancées, formulaire
 ### 🍳 O'Cuisine - Plateforme de Partage de Recettes
 [![O'Cuisine](https://img.shields.io/badge/Voir_le_projet-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://github.com/username/ocuisine)
 
-**Stack :** Node.js, Express, PostgreSQL, EJS, MVC, Heroku
+**Stack :** Node.js, Express, PostgreSQL, EJS, MVC
 
-Plateforme complète avec authentification bcrypt, CRUD complet pour les recettes, système de favoris, recherche avancée avec filtres, pagination optimisée. Architecture MVC propre avec tests unitaires complets.
+Plateforme complète avec authentification bcrypt, CRUD complet pour les recettes, système de favoris, recherche avancée avec filtres, pagination optimisée. Architecture MVC propre avec tests unitaires complets. (déploiement sur demande)
 
 **Features clés :**
 - 🔐 Authentification JWT sécurisée
