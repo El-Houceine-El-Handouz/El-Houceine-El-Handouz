@@ -12,7 +12,7 @@
 
 ## 🎯 À Propos de Moi
 
-Développeur Full Stack avec **15 ans d'expérience professionnelle**, j'ai effectué une reconversion réussie vers le développement web. Mon parcours dans le transport m'a apporté des compétences précieuses en **gestion du stress**, **relation client** et **résolution de problèmes** que j'applique aujourd'hui dans mes projets tech.
+**De 15 ans dans le transport au développement Full Stack** - Une reconversion motivée par la passion du code. Mon expérience professionnelle m'a forgé des compétences en **gestion du stress**, **relation client** et **résolution de problèmes** directement transférables dans la tech.
 
 ```javascript
 const elHouceine = {
