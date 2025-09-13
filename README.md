@@ -229,13 +229,13 @@ const funFacts = {
 
 <div align="center">
   
-Je suis actuellement **disponible pour des opportunités en CDI** en Île-de-France.
+Je suis actuellement **disponible pour des opportunités en CDI** en Île-de-France ou en France.
   
 N'hésitez pas à me contacter pour discuter de vos projets ou simplement échanger sur les technologies !
 
 📧 **Email :** [elhandouzelhouceine@gmail.com](mailto:elhandouzelhouceine@gmail.com) 
 💼 **LinkedIn :** [el-houceine-el-handouz](https://www.linkedin.com/in/el-houceine-el-handouz)  
-🏠 **Localisation :** Île-de-France, Île-de-France
+🏠 **Localisation :** Paris, Île-de-France
 
 </div>
 
