@@ -71,6 +71,47 @@ Mon expérience dans le transport m'a permis de développer des compétences tra
 | **2011-2017** | Chauffeur taxi - BEMBEC TAXI | Service premium, adaptabilité, autonomie |
 | **2009-2011** | Chauffeur-livreur - SARL CSE | Organisation, logistique, gestion du temps |
 
+## 🚀 Projets Réalisés
+
+<table>
+<tr>
+<td width="50%">
+
+### 💼 Portfolio Interactif Personnel
+[![Portfolio](https://img.shields.io/badge/Voir_le_projet-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://github.com/username/portfolio)
+
+**Stack :** React, TypeScript, Tailwind CSS, Vite, Vercel
+
+Portfolio moderne avec thème sombre/clair, animations CSS avancées, formulaire EmailJS intégré, système de mini-jeux interactifs (Memory, Snake, Quiz avec 100+ questions). Interface responsive et optimisée SEO.
+
+**Features clés :**
+- 🎨 Design moderne et responsive
+- 🎮 3 mini-jeux JavaScript
+- 📧 Formulaire de contact fonctionnel
+- ⚡ Performance optimisée (Score Lighthouse 95+)
+
+</td>
+<td width="50%">
+
+### 🍳 O'Cuisine - Plateforme de Partage de Recettes
+[![O'Cuisine](https://img.shields.io/badge/Voir_le_projet-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://github.com/username/ocuisine)
+
+**Stack :** Node.js, Express, PostgreSQL, EJS, MVC, Heroku
+
+Plateforme complète avec authentification bcrypt, CRUD complet pour les recettes, système de favoris, recherche avancée avec filtres, pagination optimisée. Architecture MVC propre avec tests unitaires complets.
+
+**Features clés :**
+- 🔐 Authentification JWT sécurisée
+- 🔍 Recherche avancée avec filtres
+- ❤️ Système de favoris et notations
+- 📊 BDD normalisée 3NF
+- 🧪 Tests unitaires
+- 📱 Méthode Agile appliquée
+
+</td>
+</tr>
+</table>
+
 ## 🛠️ Stack Technique
 
 ### Frontend
@@ -124,46 +165,6 @@ Mon expérience dans le transport m'a permis de développer des compétences tra
   <a href="https://www.atlassian.com/agile/kanban" target="_blank"><img src="https://img.shields.io/badge/KANBAN-0052CC?style=for-the-badge&logo=kanban&logoColor=white" /></a>
 </p>
 
-## 🚀 Projets Réalisés
-
-<table>
-<tr>
-<td width="50%">
-
-### 💼 Portfolio Interactif Personnel
-[![Portfolio](https://img.shields.io/badge/Voir_le_projet-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://github.com/username/portfolio)
-
-**Stack :** React, TypeScript, Tailwind CSS, Vite, Vercel
-
-Portfolio moderne avec thème sombre/clair, animations CSS avancées, formulaire EmailJS intégré, système de mini-jeux interactifs (Memory, Snake, Quiz avec 100+ questions). Interface responsive et optimisée SEO.
-
-**Features clés :**
-- 🎨 Design moderne et responsive
-- 🎮 3 mini-jeux JavaScript
-- 📧 Formulaire de contact fonctionnel
-- ⚡ Performance optimisée (Score Lighthouse 95+)
-
-</td>
-<td width="50%">
-
-### 🍳 O'Cuisine - Plateforme de Partage de Recettes
-[![O'Cuisine](https://img.shields.io/badge/Voir_le_projet-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://github.com/username/ocuisine)
-
-**Stack :** Node.js, Express, PostgreSQL, EJS, MVC, Heroku
-
-Plateforme complète avec authentification bcrypt, CRUD complet pour les recettes, système de favoris, recherche avancée avec filtres, pagination optimisée. Architecture MVC propre avec tests unitaires complets.
-
-**Features clés :**
-- 🔐 Authentification JWT sécurisée
-- 🔍 Recherche avancée avec filtres
-- ❤️ Système de favoris et notations
-- 📊 BDD normalisée 3NF
-- 🧪 Tests unitaires
-- 📱 Méthode Agile appliquée
-
-</td>
-</tr>
-</table>
 
 ## 📊 Statistiques GitHub
 
