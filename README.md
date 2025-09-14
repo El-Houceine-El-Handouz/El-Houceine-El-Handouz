@@ -245,7 +245,7 @@ N'hésitez pas à me contacter pour discuter de vos projets ou simplement échan
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=El-Houceine-El-Handouz&style=for-the-badge&color=blue" alt="Profile Views" />
   
-  ### 💭 Citation
+  ### 💭 Humour
   * > Le bon dev, il fait des commits avec des messages clairs : 'fix: resolve navbar display issue on mobile'. Le mauvais dev, il fait des commits avec des messages clairs... mais c'est 'fix', 'fix2', 'fix final', 'vraiment final', 'cette fois c'est la bonne', 'ça marche sur ma machine'. -El Houceine
   
   ⭐️ From [El-Houceine-El-Handouz](https://github.com/El-Houceine-El-Handouz)
