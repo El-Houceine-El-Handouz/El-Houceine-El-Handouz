@@ -173,9 +173,6 @@ Plateforme complète avec authentification bcrypt, CRUD complet pour les recette
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-Houceine-El-Handouz&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=El-Houceine-El-Handouz&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ## 🌐 Langues
 
