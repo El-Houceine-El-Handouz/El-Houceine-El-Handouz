@@ -177,18 +177,6 @@ Plateforme complète avec authentification bcrypt, CRUD complet pour les recette
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=El-Houceine-El-Handouz&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🏆 Trophées GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=El-Houceine-El-Handouz&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=El-Houceine-El-Handouz&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
 ## 🌐 Langues
 
 - 🇫🇷 **Français** - Langue maternelle
