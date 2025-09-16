@@ -169,8 +169,7 @@ Plateforme complète avec authentification bcrypt, CRUD complet pour les recette
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=El-Houceine-El-Handouz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-Houceine-El-Handouz&layout=compact&langs_count=8&theme=tokyonight"/>
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=El-Houceine-El-Handouz&show_icons=true&theme=tokyonight&locale=fr&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)
 </div>
 
 
